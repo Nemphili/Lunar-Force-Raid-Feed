@@ -1,0 +1,33 @@
+{
+  "configVersion": 1,
+  "minimumModVersion": "1.0.0",
+  "communityName": "Lunar Force",
+  "settings": {
+    "events": {
+      "deaths": true,
+      "extracts": true,
+      "runThroughs": true,
+      "loot": true,
+      "quests": true,
+      "bossKills": true,
+      "levelUps": true,
+      "achievements": true
+    },
+    "loot": {
+      "minimumValue": 200000
+    },
+    "screenshots": {
+      "enabled": false,
+      "deathScreenshots": true,
+      "extractScreenshots": true,
+      "rareLootScreenshots": true,
+      "questScreenshots": true,
+      "bossKillScreenshots": true,
+      "achievementScreenshots": true
+    },
+    "filters": {
+      "minimumRaidDuration": 30,
+      "ignoredMaps": []
+    }
+  }
+}
