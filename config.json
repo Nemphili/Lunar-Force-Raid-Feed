@@ -14,7 +14,7 @@
       "achievements": true
     },
     "loot": {
-      "minimumValue": 200000
+      "minimumValue": 100000
     },
     "screenshots": {
       "enabled": false,
@@ -26,7 +26,7 @@
       "achievementScreenshots": true
     },
     "filters": {
-      "minimumRaidDuration": 30,
+      "minimumRaidDuration": 5,
       "ignoredMaps": []
     }
   }
